@@ -13,5 +13,4 @@ This is the website body
 |First cell |Second cell|third cell|
 |-----------|-----------|----------|
 |First second|second second|third third|
-|------------|-----------|-------------|
 |Testing|Testing|Testing|
