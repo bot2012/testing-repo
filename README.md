@@ -9,3 +9,8 @@ This is the website body
 
 **This is Bold**
 ----------
+
+|First cell |Second cell|third cell|
+|-----------|-----------|----------|
+|First second|second second|third third|
+|------------|-----------|-------------|
